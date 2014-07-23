@@ -1,6 +1,8 @@
 Blue State Digital Google Analytics Integration Script
 ================================
 
+This is an experimental branch that supports both _gaq-style GA calls, as well as the newer Universal Analytics approach. Please use with caution.
+
 Google Analytics Integration library for use on sites that use the BSD Tools, developed by Blue State Digital agency employees, and available for public use under the Apache 2 license. 
 
 <h1>Installation</h1>
@@ -26,6 +28,7 @@ In order to correctly install the `ga_integration-min.js` snippet, you need to b
 </script>
 <!-- END Google Analytics -->
 ```
+
 
 <h1>Features</h1>
 
